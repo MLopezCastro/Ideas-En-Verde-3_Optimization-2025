@@ -79,7 +79,7 @@ Si querés colaborar en el proyecto, seguí estos pasos:
 
 Para dudas, sugerencias o reportar algún problema, abrí un [issue](https://github.com/MLopezCastro/Ideas-En-Verde-Optimization-2003-2024/issues) en GitHub o contactame directamente.
 
----
+
 
 ¡Gracias por colaborar en **Ideas-en-Verde-3_Optimization-2025**!
 ```
