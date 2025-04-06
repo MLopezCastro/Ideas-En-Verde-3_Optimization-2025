@@ -1,11 +1,7 @@
 # Ideas-En-Verde-3_Optimization-2025
 
-Acá te dejo un ejemplo de README.md para tu proyecto. Podés ajustarlo según necesites:
-
----
-
 ```markdown
-# Ideas En Verde Optimization 2003-2024
+# Ideas En-Verde-3_Optimization-2025
 
 Este repositorio contiene archivos y análisis correspondientes al proyecto **Ideas en Verde Optimization 2003-2024**. El objetivo es optimizar y visualizar la evolución de la producción propia y las compras a lo largo de los años, integrando información de Excel, Power BI y scripts en Python.
 
